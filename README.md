@@ -1,2 +1,6 @@
-# temperatura
-Para la expo del  profe. SOlis
+# TECTIJUANA
+## SENSOR TEMPERATURA
+### POR: RENE SOLIS
+----
+
+
